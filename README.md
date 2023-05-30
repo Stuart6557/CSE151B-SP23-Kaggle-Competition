@@ -20,3 +20,7 @@ Competition Page: https://www.kaggle.com/competitions/ucsd-cse-151b-class-compet
 **Compute**: UC San Diego provides Data Science/Machine Learning platform for this course. You can log in with your Active Directory ID.
 
 In addition, you can apply for student cloud computing credits at Google Cloud and  Amazon AWS.
+
+## Links
+
+GitHub Classroom milestone report: https://github.com/cse151b-sp23/milestone1-stuart-little-squad
