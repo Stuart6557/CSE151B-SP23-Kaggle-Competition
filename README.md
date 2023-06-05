@@ -23,4 +23,4 @@ In addition, you can apply for student cloud computing credits at Google Cloud a
 
 ## Links
 
-GitHub Classroom milestone report: https://github.com/cse151b-sp23/milestone1-stuart-little-squad
+GitHub Classroom milestone: https://github.com/cse151b-sp23/milestone1-stuart-little-squad
